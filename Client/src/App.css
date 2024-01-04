@@ -1,0 +1,237 @@
+:root {
+    --white: white;
+    --black:black;
+    --grey:grey;
+    --light-grey:rgba(128, 128, 128, 0.549);
+    --dark-grey:rgb(85, 83, 83);
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: dotted red 0.1px; */
+}
+
+.searchDiv{
+    display:flex;
+    justify-content: space-around;
+    height: 9vh;
+    align-items: center;
+    background-color: var(--grey);
+}
+.searchDiv form{
+    border-radius: 6px;
+    border: 1px solid black;
+    width: 30%;
+    margin: 15px 0px 10px 0px;
+    
+}
+.searchDiv input {
+    width: 80%;
+    padding: 5px 10px 5px 10px ;
+    border: none;
+    outline: 0;
+    /* background-color: rgb(29, 216, 44); */
+    border-radius: 5px;
+}
+
+.searchDiv button{
+    padding: 6px 10px 5px 10px ;
+    width: 20%;
+    border: none;
+    background-color: var(--light-grey);
+}
+.searchDiv button:focus{
+    background-color: var(--grey);
+}
+.searchDiv button:hover{
+    background-color: var(--dark-grey);
+    color: var(--white);
+}
+.body-content{
+    height: 88.7vh;
+    /* background:rgb(255, 176, 176); */
+    background-color: var(--white);
+    display: grid;
+}
+
+.amazon-content ,.flipkart-content{
+    height: 83vh;
+    width: 49%;
+    /* background-color: rgb(216, 216, 216); */
+    background-color: var(--grey);
+    /* border: 1px solid black;; */
+    /* overflow-y: scroll; */
+}
+.card_cont{
+    height: 78.5vh;
+    display: grid;
+    place-items: center;
+    overflow-y: scroll;
+}
+::-webkit-scrollbar{ 
+    width: 0.5em;
+}
+::-webkit-scrollbar-track{ 
+    /* background:var(--grey); */
+    /* background-color: blue; */
+    width: 260px;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-thumb{
+    background: var(--dark-grey);
+    /* background: rgba(228, 10, 10, 0.853); */
+    border-radius: 30px;
+ }
+
+.amazon-title ,.flipkart-title{
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
+    color: var(--white);
+    background-color:var(--black);
+}
+
+.product-img{
+    height: 7em;
+    width: 8em;
+    border-radius: 10px;
+}
+
+.card{
+    display: flex;
+    width: 95%;
+    margin-bottom: 10px;
+}
+
+.card-details{
+    padding-left: 2%;
+    display: grid;
+    width: 70%;
+    align-items: center;   
+    overflow: none;
+}
+
+.btnFli,.btnAmz{
+    align-items: center;
+    border-radius: 50% 20%;
+    /* margin: 30px; */
+    position: relative;
+    top: 50px;
+    right:10px;
+    width: 4vw;
+    height: 5vh;
+    border: none;
+    background-color: var(--grey);
+    color: var(--white);
+    opacity: 40%;
+}
+.btnFli:hover,.btnAmz:hover{
+    opacity: 100%;
+}
+
+.content-element{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn-compare{
+    display: grid;
+    place-items: center;
+}
+.compare-btn{
+    width: 8em;
+    height: 4vh;
+    border-radius: 20px;
+    background: rgb(137, 101, 235);
+    color: aliceblue;
+}
+
+
+
+/* ------------------------------- */
+.amazoncard ,.flipkartcard{
+    background-color:var(--white);
+    border: 2px solid grey;
+    border-radius: 20px;
+    padding: .4em;
+    margin: 3%;
+    display: flex;
+    width: 40em;
+  }
+  /* .cards{
+    height: 30%;
+    background-color: blanchedalmond;
+  } */
+  .productimage{
+    height: 120px;
+    max-width: 200px;
+    /* margin: 5px 5px 5px 20px; */
+    /* border-radius: 20px; */
+  }
+  .cardcontent{
+    margin: 10px 20px 10px 50px ;
+    
+    width: 65%;
+  }
+  .cardcontent a{
+    text-decoration: none;
+    /* color: black; */
+    font-weight: 600;
+  }
+
+  .hidden{
+    display: none;
+    /* overflow-y: scroll; */
+  }
+.hide_part{
+    /* background: rgb(202, 202, 230); */
+    height: 100%;
+}
+
+.prodHead{
+    display: flex;
+    /* border: dotted red 0.1px; */
+}
+.proHeadDetail{
+    display:grid;
+    /* border: dotted red 0.1px; */
+}
+
+.proHeadImage{
+    /* height: 30vh; */
+    height: 67vh;
+    display: grid;
+    place-items: center;
+}
+
+.change_btn{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.proBodyDetails{
+    display: grid;
+    justify-content: center;   
+    height: 37vh;
+    padding-top: 10px;      
+}
+.TotalContant{
+    margin-left:20px ;
+    width: 95%;
+    padding: 10px;
+    background-color:var(--white);
+    overflow-y: scroll;
+    border-radius: 8px;
+}
+.btn_back_ama, .visitLink ,.btn_back_fli{
+    width: 60px;
+    border-radius: 6px; 
+    border: none;
+}
+span{
+    color: var(--grey);
+    padding: 7px;
+}

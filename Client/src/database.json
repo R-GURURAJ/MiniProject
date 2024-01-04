@@ -1,0 +1,762 @@
+{
+     "amazon": [
+          {
+               "id": 1,
+               "name": "apple iphone 13 (128gb) - pink apple iphone 13 (128gb) - pink",
+               "link": "https://www.amazon.in//sspa/click?ie=UTF8&spc=MTo5OTUyNjA4NDY3MDUwMDM6MTcwNDM1Njc2MDpzcF9hdGY6MjAwMzA5MjYxNTA5OTg6OjA6Og&url=%2FApple-iPhone-13-128GB-Pink%2Fdp%2FB09G9FPGTN%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Diphone%26qid%3D1704356760%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+               "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "",
+                    "detailPrice": "Not Mentioned",
+                    "detailSpecification": "",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "0 customers rated..",
+                    "detailOffer": "0%",
+                    "detailEmi": "emi option unavailable",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 2,
+               "name": "apple iphone 15 (128 gb) - black apple iphone 15 (128 gb) - black",
+               "link": "https://www.amazon.in//sspa/click?ie=UTF8&spc=MTo5OTUyNjA4NDY3MDUwMDM6MTcwNDM1Njc2MDpzcF9hdGY6MzAwMDU0MzQ1OTQ3NjMyOjowOjo&url=%2FApple-iPhone-15-128-GB%2Fdp%2FB0CHX1W1XY%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Diphone%26qid%3D1704356760%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+               "image": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 ",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(128 GB) - Black",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "450 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹3,588 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 3,
+               "name": "apple iphone 13 (128gb) - (product) red apple iphone 13 (128gb) - (product) red",
+               "link": "https://www.amazon.in//Apple-iPhone-13-128GB-Product/dp/B09G99CW2N/ref=sr_1_3?keywords=iphone&qid=1704356760&sr=8-3",
+               "image": "https://m.media-amazon.com/images/I/71gm8v4uPBL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 13 ",
+                    "detailPrice": "₹54,900",
+                    "detailSpecification": "(128GB) - (Product) RED",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "23,442 ratings",
+                    "detailOffer": "21%",
+                    "detailEmi": " EMI starts at ₹2,662 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 4,
+               "name": "apple iphone 15 (128 gb) - blue apple iphone 15 (128 gb) - blue",
+               "link": "https://www.amazon.in//Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=sr_1_4?keywords=iphone&qid=1704356760&sr=8-4",
+               "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 ",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(128 GB) - Blue",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "450 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹3,588 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 5,
+               "name": "apple iphone 15 plus (256 gb) - pink apple iphone 15 plus (256 gb) - pink",
+               "link": "https://www.amazon.in//Apple-iPhone-15-Plus-256/dp/B0CHX7STQQ/ref=sr_1_5?keywords=iphone&qid=1704356760&sr=8-5",
+               "image": "https://m.media-amazon.com/images/I/71bErtQPC3L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 Plus ",
+                    "detailPrice": "₹92,999",
+                    "detailSpecification": "(256 GB) - Pink",
+                    "detailRating": "4.6 out of 5 star",
+                    "detailCustomerRated": "228 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹4,509 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 6,
+               "name": "apple iphone 14 (128 gb) - midnight apple iphone 14 (128 gb) - midnight",
+               "link": "https://www.amazon.in//Apple-iPhone-14-128GB-Midnight/dp/B0BDHX8Z63/ref=sr_1_6?keywords=iphone&qid=1704356760&sr=8-6",
+               "image": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 14 ",
+                    "detailPrice": "₹59,999",
+                    "detailSpecification": "(128 GB) - Midnight",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "4,402 ratings",
+                    "detailOffer": "14%",
+                    "detailEmi": " EMI starts at ₹2,909 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 7,
+               "name": "apple iphone 15 pro (256 gb) - natural titanium apple iphone 15 pro (256 gb) - natural titanium",
+               "link": "https://www.amazon.in//Apple-iPhone-15-Pro-256/dp/B0CHX5J2ND/ref=sr_1_7?keywords=iphone&qid=1704356760&sr=8-7",
+               "image": "https://m.media-amazon.com/images/I/81CgtwSII3L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 Pro ",
+                    "detailPrice": "₹1,40,990",
+                    "detailSpecification": "(256 GB) - Natural Titanium",
+                    "detailRating": "3.8 out of 5 star",
+                    "detailCustomerRated": "80 ratings",
+                    "detailOffer": "3%",
+                    "detailEmi": " EMI starts at ₹6,836 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 8,
+               "name": "apple iphone 15 plus (128 gb) - black apple iphone 15 plus (128 gb) - black",
+               "link": "https://www.amazon.in//Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=sr_1_8?keywords=iphone&qid=1704356760&sr=8-8",
+               "image": "https://m.media-amazon.com/images/I/71zFRCcMS2L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 Plus ",
+                    "detailPrice": "₹82,999",
+                    "detailSpecification": "(128 GB) - Black",
+                    "detailRating": "4.6 out of 5 star",
+                    "detailCustomerRated": "228 ratings",
+                    "detailOffer": "8%",
+                    "detailEmi": " EMI starts at ₹4,024 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 9,
+               "name": "apple iphone 15 (256 gb) - blue apple iphone 15 (256 gb) - blue",
+               "link": "https://www.amazon.in//Apple-iPhone-15-256-GB/dp/B0CHX6N27Y/ref=sr_1_9?keywords=iphone&qid=1704356760&sr=8-9",
+               "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 ",
+                    "detailPrice": "₹83,999",
+                    "detailSpecification": "(256 GB) - Blue",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "450 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹4,072 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 10,
+               "name": "apple iphone 14 (128 gb) - blue apple iphone 14 (128 gb) - blue",
+               "link": "https://www.amazon.in//Apple-iPhone-14-128GB-Blue/dp/B0BDK62PDX/ref=sr_1_10?keywords=iphone&qid=1704356760&sr=8-10",
+               "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 14 ",
+                    "detailPrice": "₹59,999",
+                    "detailSpecification": "(128 GB) - Blue",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "4,402 ratings",
+                    "detailOffer": "25%",
+                    "detailEmi": " EMI starts at ₹2,909 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 11,
+               "name": "apple iphone 14 (128 gb) - starlight apple iphone 14 (128 gb) - starlight",
+               "link": "https://www.amazon.in//Apple-iPhone-14-128GB-Starlight/dp/B0BDK8LKPJ/ref=sr_1_11?keywords=iphone&qid=1704356760&sr=8-11",
+               "image": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 14 ",
+                    "detailPrice": "₹59,999",
+                    "detailSpecification": "(128 GB) - Starlight",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "4,402 ratings",
+                    "detailOffer": "25%",
+                    "detailEmi": " EMI starts at ₹2,909 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 12,
+               "name": "apple iphone 15 pro max (256 gb) - blue titanium apple iphone 15 pro max (256 gb) - blue titanium",
+               "link": "https://www.amazon.in//Apple-iPhone-Pro-Max-256/dp/B0CHX1K2ZC/ref=sr_1_12?keywords=iphone&qid=1704356760&sr=8-12",
+               "image": "https://m.media-amazon.com/images/I/81fxjeu8fdL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 Pro Max ",
+                    "detailPrice": "₹1,56,900",
+                    "detailSpecification": "(256 GB) - Blue Titanium",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "99 ratings",
+                    "detailOffer": "2%",
+                    "detailEmi": " EMI starts at ₹7,608 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 13,
+               "name": "apple iphone 15 pro (128 gb) - blue titanium apple iphone 15 pro (128 gb) - blue titanium",
+               "link": "https://www.amazon.in//Apple-iPhone-15-Pro-128/dp/B0CHX2DRGV/ref=sr_1_13?keywords=iphone&qid=1704356760&sr=8-13",
+               "image": "https://m.media-amazon.com/images/I/81SigpJN1KL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 Pro ",
+                    "detailPrice": "₹1,30,990",
+                    "detailSpecification": "(128 GB) - Blue Titanium",
+                    "detailRating": "3.8 out of 5 star",
+                    "detailCustomerRated": "80 ratings",
+                    "detailOffer": "3%",
+                    "detailEmi": " EMI starts at ₹6,351 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 14,
+               "name": "apple iphone 13 (128gb) - pink apple iphone 13 (128gb) - pink",
+               "link": "https://www.amazon.in//Apple-iPhone-13-128GB-Pink/dp/B09G9FPGTN/ref=sr_1_14?keywords=iphone&qid=1704356760&sr=8-14",
+               "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 13 ",
+                    "detailPrice": "₹54,900",
+                    "detailSpecification": "(128GB) - Pink",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "23,442 ratings",
+                    "detailOffer": "21%",
+                    "detailEmi": " EMI starts at ₹2,662 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 15,
+               "name": "apple iphone 15 (128 gb) - black apple iphone 15 (128 gb) - black",
+               "link": "https://www.amazon.in//Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=sr_1_15?keywords=iphone&qid=1704356760&sr=8-15",
+               "image": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 ",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(128 GB) - Black",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "450 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹3,588 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 16,
+               "name": "apple iphone 15 (128 gb) - pink apple iphone 15 (128 gb) - pink",
+               "link": "https://www.amazon.in//Apple-iPhone-15-128-GB/dp/B0CHX3TW6X/ref=sr_1_16?keywords=iphone&qid=1704356760&sr=8-16",
+               "image": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 ",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(128 GB) - Pink",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "450 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹3,588 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 17,
+               "name": "apple iphone 15 (128 gb) - green apple iphone 15 (128 gb) - green",
+               "link": "https://www.amazon.in//Apple-iPhone-15-128-GB/dp/B0CHX6NQMD/ref=sr_1_17?keywords=iphone&qid=1704356760&sr=8-17",
+               "image": "https://m.media-amazon.com/images/I/71nvkHnPpZL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 ",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(128 GB) - Green",
+                    "detailRating": "4.5 out of 5 star",
+                    "detailCustomerRated": "450 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹3,588 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 18,
+               "name": "apple iphone 15 plus (256 gb) - blue apple iphone 15 plus (256 gb) - blue",
+               "link": "https://www.amazon.in//Apple-iPhone-15-Plus-256/dp/B0CHXDVMVP/ref=sr_1_18?keywords=iphone&qid=1704356760&sr=8-18",
+               "image": "https://m.media-amazon.com/images/I/71PjpS59XLL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Apple iPhone 15 Plus ",
+                    "detailPrice": "₹92,999",
+                    "detailSpecification": "(256 GB) - Blue",
+                    "detailRating": "4.6 out of 5 star",
+                    "detailCustomerRated": "228 ratings",
+                    "detailOffer": "7%",
+                    "detailEmi": " EMI starts at ₹4,509 per month. ",
+                    "detailDeliveryChrage": "",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          }
+     ],
+     "flipkart": [
+          {
+               "id": 1,
+               "name": "apple iphone 14 (blue, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d?pid=MOBGHWFHSV7GUFWA&lid=LSTMOBGHWFHSV7GUFWAFEQJQ4&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_1&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHSV7GUFWA.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14",
+                    "detailPrice": "₹60,999",
+                    "detailSpecification": "(Blue, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "12% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 2,
+               "name": "apple iphone 14 (starlight, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-starlight-128-gb/p/itm3485a56f6e676?pid=MOBGHWFHABH3G73H&lid=LSTMOBGHWFHABH3G73HCNASCL&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_2&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHABH3G73H.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14",
+                    "detailPrice": "₹60,999",
+                    "detailSpecification": "(Starlight, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "12% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 3,
+               "name": "apple iphone 15 (blue, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-blue-128-gb/p/itmbf14ef54f645d?pid=MOBGTAGPAQNVFZZY&lid=LSTMOBGTAGPAQNVFZZYSCIIOB&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_3&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPAQNVFZZY.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 15",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(Blue, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "7% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 4,
+               "name": "apple iphone 15 (black, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-black-128-gb/p/itm6ac6485515ae4?pid=MOBGTAGPTB3VS24W&lid=LSTMOBGTAGPTB3VS24WYZPL8F&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_4&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPTB3VS24W.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70",
+               "detials": {
+                    "detailName": "",
+                    "detailPrice": "Not Mentioned",
+                    "detailSpecification": "",
+                    "detailRating": " 0  out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 5,
+               "name": "apple iphone 14 (midnight, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-midnight-128-gb/p/itm9e6293c322a84?pid=MOBGHWFHECFVMDCX&lid=LSTMOBGHWFHECFVMDCXXRTRJG&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_5&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHECFVMDCX.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/e/e/-original-imaghx9q5rvcdghy.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14",
+                    "detailPrice": "₹60,999",
+                    "detailSpecification": "(Midnight, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "12% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 6,
+               "name": "apple iphone 14 plus (blue, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-plus-blue-128-gb/p/itmac8385391b02b?pid=MOBGHWFHUYWGB5F2&lid=LSTMOBGHWFHUYWGB5F2XIJVA7&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_6&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHUYWGB5F2.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/4/d/-original-imaghx9qygjjg8hz.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14 Plus",
+                    "detailPrice": "₹66,999",
+                    "detailSpecification": "(Blue, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "16% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 7,
+               "name": "apple iphone 14 plus (starlight, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-plus-starlight-128-gb/p/itmc922ddc8af349?pid=MOBGHWFHVCB2YZYR&lid=LSTMOBGHWFHVCB2YZYREG7ZLM&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_7&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHVCB2YZYR.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/v/8/-original-imaghx9qudmydgc4.jpeg?q=70",
+               "detials": {
+                    "detailName": "",
+                    "detailPrice": "Not Mentioned",
+                    "detailSpecification": "",
+                    "detailRating": " 0  out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 8,
+               "name": "apple iphone 15 (green, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-green-128-gb/p/itm235cd318bde73?pid=MOBGTAGPYYWZRUJX&lid=LSTMOBGTAGPYYWZRUJXXIP6YM&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_8&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPYYWZRUJX.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/z/3/-original-imagtc5fqyz8tu4c.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 15",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(Green, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "7% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 9,
+               "name": "apple iphone 14 (purple, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-purple-128-gb/p/itm0b581eba85e08?pid=MOBGHWFHQFSQYBFU&lid=LSTMOBGHWFHQFSQYBFUUF0OWI&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_9&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHQFSQYBFU.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14",
+                    "detailPrice": "₹60,999",
+                    "detailSpecification": "(Purple, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "12% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 10,
+               "name": "apple iphone 14 plus (midnight, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-plus-midnight-128-gb/p/itm4199ea6bcd38b?pid=MOBGHWFH3JX6NWWY&lid=LSTMOBGHWFH3JX6NWWYRH38NG&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_10&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFH3JX6NWWY.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/b/0/-original-imaghx9qnhzxegu2.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14 Plus",
+                    "detailPrice": "₹66,999",
+                    "detailSpecification": "(Midnight, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "16% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 11,
+               "name": "apple iphone 14 plus (purple, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-plus-purple-128-gb/p/itm7a759a472d863?pid=MOBGHWFHYFJWRHAG&lid=LSTMOBGHWFHYFJWRHAGIWEYST&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_11&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHYFJWRHAG.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/0/t/-original-imaghxa5rgcv5enm.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14 Plus",
+                    "detailPrice": "₹66,999",
+                    "detailSpecification": "(Purple, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "16% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 12,
+               "name": "apple iphone 15 plus (blue, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-plus-blue-128-gb/p/itm4022c14383050?pid=MOBGTAGPE4F2HAW7&lid=LSTMOBGTAGPE4F2HAW7NDYSPY&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_12&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPE4F2HAW7.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/1/i/x/-original-imagtc6fhhtqjnr9.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 15 Plus",
+                    "detailPrice": "₹82,999",
+                    "detailSpecification": "(Blue, 128 GB)",
+                    "detailRating": "4.7 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "7% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 13,
+               "name": "apple iphone 15 (pink, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-pink-128-gb/p/itm7579ed94ca647?pid=MOBGTAGPNMZA5PU5&lid=LSTMOBGTAGPNMZA5PU5O32WJC&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_13&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPNMZA5PU5.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/c/k/-original-imagtc5fuzkvczr7.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 15",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(Pink, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "7% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 14,
+               "name": "apple iphone 12 (blue, 64 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-12-blue-64-gb/p/itm5778ad0d0d255?pid=MOBFWBYZ8DNJNY7N&lid=LSTMOBFWBYZ8DNJNY7NMWAWOJ&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_14&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBFWBYZ8DNJNY7N.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 12",
+                    "detailPrice": "₹42,999",
+                    "detailSpecification": "(Blue, 64 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "13% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 15,
+               "name": "apple iphone 15 plus (black, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-plus-black-128-gb/p/itme3a53984760fb?pid=MOBGTAGPNRQA7CS3&lid=LSTMOBGTAGPNRQA7CS3L7XK7L&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_15&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPNRQA7CS3.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 15 Plus",
+                    "detailPrice": "₹82,999",
+                    "detailSpecification": "(Black, 128 GB)",
+                    "detailRating": "4.7 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "7% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 16,
+               "name": "apple iphone 12 (white, 64 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?pid=MOBFWBYZTK33MBG9&lid=LSTMOBFWBYZTK33MBG98APVO4&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_16&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBFWBYZTK33MBG9.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 12",
+                    "detailPrice": "₹42,999",
+                    "detailSpecification": "(White, 64 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "13% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 17,
+               "name": "apple iphone 15 (yellow, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-yellow-128-gb/p/itm825e4ad0b80ca?pid=MOBGTAGPDTKHHHZU&lid=LSTMOBGTAGPDTKHHHZUTQZRMS&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_17&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPDTKHHHZU.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/l/g/-original-imagtc5frtz9j7tb.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 15",
+                    "detailPrice": "₹73,999",
+                    "detailSpecification": "(Yellow, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "7% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 18,
+               "name": "apple iphone 14 (blue, 256 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-blue-256-gb/p/itm04dba659735c7?pid=MOBGHWFHD3XPKDPN&lid=LSTMOBGHWFHD3XPKDPNUH3TWL&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_18&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHD3XPKDPN.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
+               "detials": {
+                    "detailName": "",
+                    "detailPrice": "Not Mentioned",
+                    "detailSpecification": "",
+                    "detailRating": " 0  out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 19,
+               "name": "apple iphone 12 (blue, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-12-blue-128-gb/p/itm02853ae92e90a?pid=MOBFWBYZKPTZF9VG&lid=LSTMOBFWBYZKPTZF9VGHUA0UC&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_19&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBFWBYZKPTZF9VG.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 12",
+                    "detailPrice": "₹48,999",
+                    "detailSpecification": "(Blue, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "10% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 20,
+               "name": "apple iphone 14 (starlight, 256 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-14-starlight-256-gb/p/itmaeda15697bb79?pid=MOBGHWFHBJGZYRZC&lid=LSTMOBGHWFHBJGZYRZCUALABX&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_20&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGHWFHBJGZYRZC.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 14",
+                    "detailPrice": "₹69,999",
+                    "detailSpecification": "(Starlight, 256 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "12% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 21,
+               "name": "apple iphone 15 (blue, 256 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-blue-256-gb/p/itm986f66c53cae4?pid=MOBGTAGPNEZZY2YR&lid=LSTMOBGTAGPNEZZY2YRE1FCIG&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_21&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPNEZZY2YR.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 15",
+                    "detailPrice": "₹83,999",
+                    "detailSpecification": "(Blue, 256 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "6% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 22,
+               "name": "apple iphone 15 plus (pink, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-plus-pink-128-gb/p/itmecb6209a78172?pid=MOBGTAGPXUWEXXWY&lid=LSTMOBGTAGPXUWEXXWYKVXCUT&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_22&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPXUWEXXWY.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/6/r/-original-imagtc6fn8fecysv.jpeg?q=70",
+               "detials": {
+                    "detailName": "",
+                    "detailPrice": "Not Mentioned",
+                    "detailSpecification": "",
+                    "detailRating": " 0  out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 23,
+               "name": "apple iphone 13 (blue, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-13-blue-128-gb/p/itm6c601e0a58b3c?pid=MOBG6VF5SMXPNQHG&lid=LSTMOBG6VF5SMXPNQHGTJUCOX&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_23&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBG6VF5SMXPNQHG.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/2/y/o/iphone-13-mlpk3hn-a-apple-original-imag6vpyur6hjngg.jpeg?q=70",
+               "detials": {
+                    "detailName": "APPLE iPhone 13",
+                    "detailPrice": "₹52,999",
+                    "detailSpecification": "(Blue, 128 GB)",
+                    "detailRating": "4.6 out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "11% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 Days Service Center Replacement/Repair?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 24,
+               "name": "apple iphone 15 plus (green, 128 gb)",
+               "link": "https://www.flipkart.com/apple-iphone-15-plus-green-128-gb/p/itmaa50abb5e6c3b?pid=MOBGTAGPJVGHTAYC&lid=LSTMOBGTAGPJVGHTAYCTGIMN2&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_24&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=33c6fec6-0929-4583-ba8a-a3b965d9aa4f.MOBGTAGPJVGHTAYC.SEARCH&ppt=None&ppn=None&ssid=li6inxqqbk0000001704356760400&qH=0b3f45b266a97d70",
+               "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/x/t/-original-imagtc6ffhgm3f2g.jpeg?q=70",
+               "detials": {
+                    "detailName": "",
+                    "detailPrice": "Not Mentioned",
+                    "detailSpecification": "",
+                    "detailRating": " 0  out of 5 stars",
+                    "detailCustomerRated": "no ratings founded..",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "",
+                    "DetialSpec": {}
+               }
+          }
+     ]
+}
